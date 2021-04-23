@@ -1,0 +1,1 @@
+// deleteEmptyObjects.js
