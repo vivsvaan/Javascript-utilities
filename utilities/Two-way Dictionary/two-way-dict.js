@@ -5,3 +5,10 @@ function createTwoWayDict(dict) {
 }
 
 
+a = {'key1': 'value1', 'key2': 'value2', 'key3': 'value3'};
+a = createTwoWayDict(a);
+
+a['key1']
+
+a['value1']
+
